@@ -9,4 +9,4 @@ const countOfWorkingDays = (from, to) => {
   }
 };
 
-export default countOfWorkingDays();
+export default countOfWorkingDays;
